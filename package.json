@@ -1,0 +1,27 @@
+{
+  "name": "galenjs",
+  "version": "0.0.1",
+  "description": "Pure javascript implementation of GalenFramework",
+  "main": "lib/galenjs.js",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "webdriverio": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "yadda": "^0.15.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thr0w/galenjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thr0w/galenjs/issues"
+  },
+  "homepage": "https://github.com/thr0w/galenjs"
+}
